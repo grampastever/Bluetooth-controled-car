@@ -1,6 +1,6 @@
 //The following code is for the remote control vehicle
 //
-//This file requires functions.ino to be in the same directory as BT_basic_slave.ino
+//This file requires the file functions.ino to be in the same directory as BT_basic_slave.ino
 //
 //mates with BT_basic_master.ino
 //
