@@ -21,7 +21,7 @@ As part of an exercise in self-learning, I decided to design and build a remote 
 17. 1 x 3d printed "axle" to mount the wheels onto the platform
 
 All the code is provided for both components. Note, the file functions.ino must be in the same folder as BT_basic_slave.ino. 
-All the STL files for 3d printed components are included as .stl. Note, the bed.stl item was sized to make the bed level with the particular castoring wheel used (2-12 inches from ground to underside of the platform. 
+All the STL files for 3d printed components are included as .stl. Note, the bed.stl item was sized to make the bed level with the particular castoring wheel used (2-12 inches from ground to underside of the platform). The plans for the platform are also included as a .pdf file.
 
 
 ![20220208_135725](https://user-images.githubusercontent.com/97183531/153056932-fe1f4c3e-b6bf-4085-9ccd-25892cce0dc1.jpg)
