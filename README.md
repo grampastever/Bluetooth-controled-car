@@ -20,3 +20,24 @@ As part of an exercise in self-learning, I decided to design and build a remote 
 16. 1 x homemade platform
 17. 1 x 3d printed "axle" to mount the wheels onto the platform
 
+
+![20220208_135725](https://user-images.githubusercontent.com/97183531/153056932-fe1f4c3e-b6bf-4085-9ccd-25892cce0dc1.jpg)
+![20220208_135748](https://user-images.githubusercontent.com/97183531/153056966-1f40c169-cd56-4374-bcb8-5fc890f242f8.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
